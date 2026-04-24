@@ -153,4 +153,4 @@ Portfólio: yamakishi.dev
 📜 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-<div align="center"> <p>Construído com 💙 por Gabriel Yamakishi</p> <p>React • Next.js • TypeScript • C# • Azure</p> </div> ```
+Construído com 💙 por Gabriel Yamakishi
