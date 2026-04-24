@@ -13,9 +13,9 @@ export const PERSONAL_INFO = {
   },
   email: "gabriel.yamakishi@gmail.com",
   phone: "(19) 97123-7194",
-  linkedin: "https://linkedin.com/in/gabriel-yamakishi-13a6361a3",
+  linkedin: "https://linkedin.com/in/gabrielyamakishi",
   github: "https://github.com/yamakishi",
-  portfolio: "https://yamakishi.dev",
+  portfolio: "https://portfolio-gabriel-ebon.vercel.app/",
 } as const;
 
 // Configuração de UI por nível de proficiência
