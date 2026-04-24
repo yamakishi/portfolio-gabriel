@@ -58,27 +58,49 @@ Portfólio profissional interativo com renderização 3D, internacionalização 
 
 ## 🏗️ Arquitetura
 src/
+
 ├── app/ # Next.js App Router
+
 │ ├── [lang]/ # Rotas internacionalizadas (pt/en)
+
 │ └── api/ # API Routes (contato)
+
 ├── components/ # Componentes React (Atomic Design)
+
 │ ├── ui/ # Átomos/Moléculas
+
 │ ├── sections/ # Organismos (Hero, Skills, Projects, etc.)
+
 │ ├── layout/ # Header, Footer
+
 │ └── three/ # Componentes 3D
+
 ├── data/ # Camada de Dados
+
 │ ├── mocks/ # Dados mockados
+
 │ └── repositories/ # Padrão Repository
+
 ├── hooks/ # Custom Hooks
+
 ├── i18n/ # Internacionalização
+
 │ ├── request.ts
+
 │ └── routing.ts
+
 ├── lib/ # Utilitários e Configurações
+
 │ ├── types.ts # Definições TypeScript
+
 │ ├── constants.ts # Constantes
+
 │ └── utils.ts # Funções helpers
+
 └── messages/ # Arquivos de Tradução
+
 ├── pt.json
+
 └── en.json
 
 text
@@ -153,4 +175,4 @@ Portfólio: yamakishi.dev
 📜 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-<div align="center"> <p>Construído com 💙 por Gabriel Yamakishi</p> <p>React • Next.js • TypeScript • C# • Azure</p> </div> ```
+Construído com 💙 por Gabriel Yamakishi
