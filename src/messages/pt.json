@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "title": "Gabriel Yamakishi | Frontend Engineer",
+    "description": "Especialista em Dashboards B2B e Arquitetura Frontend. React, Next.js, TypeScript e Azure."
+  },
+  "navigation": {
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projetos",
+    "journey": "Jornada",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "user@portfolio:~$",
+    "role": "Desenvolvedor Fullstack",
+    "and": "com foco em",
+    "architecture": "React & C#",
+    "systemOnline": "ON",
+    "systemOnlineFull": "SYSTEM ONLINE",
+    "engine3d": "3D",
+    "engine3dFull": "3D ENGINE ACTIVE",
+    "build": "STABLE",
+    "buildFull": "BUILD: STABLE",
+    "aboutCommand": "cat about_me.txt",
+    "about1": "3+ anos desenvolvendo sistemas web e dashboards B2B.",
+    "about2": "Stack principal: React, Next.js, TypeScript e C# .NET.",
+    "about3": "Certificado Microsoft Azure Database Administrator.",
+    "about4": "Transição para Fullstack: unindo frontend sólido com backend em C#."
+  },
+  "skills": {
+    "badge": "tech radar",
+    "title": "skills --universe",
+    "description": "Stack principal com",
+    "description2": "de experiência. Em transição para Fullstack com foco em React e C#.",
+    "frontend": "Frontend",
+    "frontendSubtitle": "Especialidade Principal",
+    "backend": "Backend",
+    "backendSubtitle": "C# .NET & Node.js",
+    "database": "Database",
+    "databaseSubtitle": "Modelagem e Consultas",
+    "tools": "Ferramentas & DevOps",
+    "toolsSubtitle": "Desenvolvimento e Infraestrutura",
+    "legend": {
+      "expert": "Especialista",
+      "advanced": "Avançado",
+      "intermediate": "Intermediário",
+      "learning": "Estudando"
+    },
+    "stats": {
+      "technologies": "Tecnologias",
+      "specialist": "Especialista",
+      "highlights": "Destaques",
+      "yearsFrontend": "Anos Exp."
+    }
+  },
+  "projects": {
+    "badge": "featured work",
+    "title": "projetos --destaque",
+    "description": "Alguns projetos são confidenciais e não podem ter código ou preview público.",
+    "private": "Projetos privados",
+    "privateDesc": "representam trabalho real em produção.",
+    "otherProjects": "outros_projetos",
+    "proprietary": "PROPRIETÁRIO",
+    "livePreview": "Live Preview",
+    "previewUnavailable": "Preview Indisponível",
+    "code": "Código",
+    "privateCode": "Privado",
+    "privatePlaceholder": {
+      "title": "Código Proprietário",
+      "production": "Este projeto está em produção na",
+      "confidential": "Preview não disponível por acordo de confidencialidade"
+    }
+  },
+  "journey": {
+    "badge": "my journey",
+    "title": "jornada --timeline",
+    "description": "Uma trajetória curta, mas com evolução constante e reconhecimento.",
+    "description2": "Cada marco representa um passo importante na minha carreira.",
+    "current": "ATUAL",
+    "highlights": "Conquistas em Destaque",
+    "types": {
+      "work": "Experiência",
+      "achievement": "Conquista",
+      "certification": "Certificação",
+      "education": "Formação"
+    },
+    "video": "🎬 Vídeo da Condecoração",
+    "videoDesc": "Momento especial de reconhecimento",
+    "present": "Presente",
+    "moreAchievements": "conquistas",
+    "stats": {
+      "experience": "Anos de Experiência",
+      "months": "meses",
+      "positions": "Posições",
+      "achievements": "Conquistas & Certificações",
+      "technologies": "Tecnologias"
+    }
+  },
+  "contact": {
+    "badge": "get in touch",
+    "title": "contato --connect",
+    "description": "Vamos trabalhar juntos? Estou disponível para oportunidades e colaborações.",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Seu nome completo",
+      "email": "Email",
+      "emailPlaceholder": "seu@email.com",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Sobre o que quer falar?",
+      "message": "Mensagem",
+      "messagePlaceholder": "Escreva sua mensagem aqui...",
+      "send": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada com sucesso!",
+      "error": "Erro ao enviar. Tente novamente."
+    },
+    "info": {
+      "title": "Informações de Contato",
+      "email": "Email",
+      "phone": "Telefone",
+      "location": "Localização",
+      "social": "Redes Sociais"
+    },
+    "validation": {
+      "nameRequired": "Nome é obrigatório",
+      "nameMin": "Nome deve ter pelo menos 2 caracteres",
+      "emailRequired": "Email é obrigatório",
+      "emailInvalid": "Email inválido",
+      "subjectRequired": "Assunto é obrigatório",
+      "messageRequired": "Mensagem é obrigatória",
+      "messageMin": "Mensagem deve ter pelo menos 10 caracteres"
+    },
+    "status": {
+      "available": "Disponível para oportunidades",
+      "response": "Resposta em até 24h"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "builtWith": "Construído com Next.js 15, TypeScript e Three.js"
+  },
+  "common": {
+    "technologies": "tecnologias",
+    "screenshot": "Screenshot do projeto"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Gabriel Yamakishi | Frontend Engineer",
+    "description": "B2B Dashboard Specialist and Frontend Architecture. React, Next.js, TypeScript and Azure."
+  },
+  "navigation": {
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projects",
+    "journey": "Journey",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "user@portfolio:~$",
+    "role": "B2B Dashboard Specialist",
+    "and": "and",
+    "architecture": "Frontend Architecture",
+    "systemOnline": "ONLINE",
+    "systemOnlineFull": "SYSTEM ONLINE",
+    "engine3d": "3D",
+    "engine3dFull": "3D ENGINE ACTIVE",
+    "build": "STABLE",
+    "buildFull": "BUILD: STABLE",
+    "aboutCommand": "cat about_me.txt",
+    "about1": "3+ years developing internal systems and B2B dashboards.",
+    "about2": "Main stack: React, Next.js and TypeScript.",
+    "about3": "Microsoft Azure Database Administrator Certified."
+  },
+  "skills": {
+    "badge": "tech radar",
+    "title": "skills --universe",
+    "description": "Frontend is my main domain with 3+ years of experience.",
+    "description2": "In parallel, I'm expanding my knowledge to become a Fullstack developer.",
+    "frontend": "Frontend",
+    "frontendSubtitle": "Main Specialty",
+    "backend": "Backend",
+    "backendSubtitle": "Transitioning to Fullstack",
+    "database": "Database",
+    "databaseSubtitle": "Modeling and Queries",
+    "tools": "Tools",
+    "toolsSubtitle": "Development and Productivity",
+    "legend": {
+      "expert": "Expert",
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "learning": "Learning"
+    },
+    "stats": {
+      "technologies": "Technologies",
+      "specialist": "Specialist",
+      "highlights": "Highlights",
+      "yearsFrontend": "Frontend Years"
+    }
+  },
+  "projects": {
+    "badge": "featured work",
+    "title": "projects --featured",
+    "description": "Some projects are confidential and cannot have public code or preview.",
+    "private": "Private projects",
+    "privateDesc": "represent real production work.",
+    "otherProjects": "other_projects",
+    "proprietary": "PROPRIETARY",
+    "livePreview": "Live Preview",
+    "previewUnavailable": "Preview Unavailable",
+    "code": "Code",
+    "privateCode": "Private Code",
+    "privatePlaceholder": {
+      "title": "Proprietary Code",
+      "production": "This project is in production at",
+      "confidential": "Preview not available due to confidentiality agreement"
+    }
+  },
+  "journey": {
+    "badge": "my journey",
+    "title": "journey --timeline",
+    "description": "A short but constantly evolving journey with recognition.",
+    "description2": "Each milestone represents an important step in my career.",
+    "current": "CURRENT",
+    "highlights": "Featured Achievements",
+    "types": {
+      "work": "Experience",
+      "achievement": "Achievement",
+      "certification": "Certification",
+      "education": "Education"
+    },
+    "video": "🎬 Recognition Video",
+    "videoDesc": "Special moment of recognition",
+    "present": "Present",
+    "moreAchievements": "achievements",
+    "stats": {
+      "experience": "Years of Experience",
+      "months": "months",
+      "positions": "Positions",
+      "achievements": "Achievements & Certifications",
+      "technologies": "Technologies"
+    }
+  },
+  "contact": {
+    "badge": "get in touch",
+    "title": "contact --connect",
+    "description": "Let's work together? I'm available for opportunities and collaborations.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What do you want to talk about?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "social": "Social Media"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "nameMin": "Name must have at least 2 characters",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must have at least 10 characters"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with Next.js 15, TypeScript and Three.js"
+  },
+  "common": {
+    "technologies": "technologies",
+    "screenshot": "Project screenshot"
+  }
+}
