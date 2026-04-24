@@ -1,7 +1,6 @@
-// src/lib/constants.ts
-
 import { LevelUIConfig, ProficiencyLevel, SkillCategory } from "./types";
 
+// Informações Pessoais
 export const PERSONAL_INFO = {
   name: "Gabriel Yamakishi",
   title: {
@@ -19,6 +18,7 @@ export const PERSONAL_INFO = {
   portfolio: "https://yamakishi.dev",
 } as const;
 
+// Configuração de UI por nível de proficiência
 export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
   expert: {
     color: "bg-primary text-primary-foreground border-primary",
@@ -54,6 +54,7 @@ export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
   },
 } as const;
 
+// Cores por categoria
 export const CATEGORY_COLORS: Record<SkillCategory, string> = {
   frontend: "from-primary/20 to-primary/5",
   backend: "from-secondary/20 to-secondary/5",
@@ -62,6 +63,7 @@ export const CATEGORY_COLORS: Record<SkillCategory, string> = {
   devops: "from-purple-500/20 to-purple-500/5",
 } as const;
 
+// Breakpoints
 export const BREAKPOINTS = {
   sm: 640,
   md: 768,
@@ -70,6 +72,7 @@ export const BREAKPOINTS = {
   "2xl": 1536,
 } as const;
 
+// Configurações de animação
 export const ANIMATION_CONFIG = {
   initial: { opacity: 0, y: 20 },
   animate: { opacity: 1, y: 0 },
