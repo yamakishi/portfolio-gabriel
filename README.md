@@ -60,6 +60,7 @@ Portfólio profissional interativo com renderização 3D, internacionalização 
 src/
 
 ├── app/ # Next.js App Router
+
 │ ├── [lang]/ # Rotas internacionalizadas (pt/en)
 
 │ └── api/ # API Routes (contato)
@@ -93,9 +94,13 @@ src/
 │ ├── types.ts # Definições TypeScript
 
 │ ├── constants.ts # Constantes
+
 │ └── utils.ts # Funções helpers
+
 └── messages/ # Arquivos de Tradução
+
 ├── pt.json
+
 └── en.json
 
 text
