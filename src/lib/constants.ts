@@ -1,11 +1,12 @@
+// src/lib/constants.ts
+
 import { LevelUIConfig, ProficiencyLevel, SkillCategory } from "./types";
 
-// Informações Pessoais (Facilita atualizações)
 export const PERSONAL_INFO = {
   name: "Gabriel Yamakishi",
   title: {
-    pt: "Desenvolvedor Frontend • React • Next.js • TypeScript",
-    en: "Frontend Developer • React • Next.js • TypeScript",
+    pt: "Desenvolvedor Fullstack • React • Next.js • TypeScript • C#",
+    en: "Fullstack Developer • React • Next.js • TypeScript • C#",
   },
   location: {
     pt: "Hortolândia, SP - Brasil",
@@ -18,7 +19,6 @@ export const PERSONAL_INFO = {
   portfolio: "https://yamakishi.dev",
 } as const;
 
-// Configuração de UI por nível de proficiência (Strategy Pattern)
 export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
   expert: {
     color: "bg-primary text-primary-foreground border-primary",
@@ -27,7 +27,6 @@ export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
       pt: "Especialista",
       en: "Expert",
     },
-    badgeClass: "expert-badge",
   },
   advanced: {
     color: "bg-primary/20 text-primary border-primary/30",
@@ -36,7 +35,6 @@ export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
       pt: "Avançado",
       en: "Advanced",
     },
-    badgeClass: "advanced-badge",
   },
   intermediate: {
     color: "bg-secondary/20 text-secondary border-secondary/30",
@@ -45,7 +43,6 @@ export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
       pt: "Intermediário",
       en: "Intermediate",
     },
-    badgeClass: "intermediate-badge",
   },
   learning: {
     color: "bg-muted/20 text-muted-foreground border-border",
@@ -54,11 +51,9 @@ export const LEVEL_CONFIG: Record<ProficiencyLevel, LevelUIConfig> = {
       pt: "Estudando",
       en: "Learning",
     },
-    badgeClass: "learning-badge",
   },
 } as const;
 
-// Cores por categoria (Visual hierarchy)
 export const CATEGORY_COLORS: Record<SkillCategory, string> = {
   frontend: "from-primary/20 to-primary/5",
   backend: "from-secondary/20 to-secondary/5",
@@ -67,7 +62,6 @@ export const CATEGORY_COLORS: Record<SkillCategory, string> = {
   devops: "from-purple-500/20 to-purple-500/5",
 } as const;
 
-// Breakpoints para responsividade
 export const BREAKPOINTS = {
   sm: 640,
   md: 768,
@@ -76,7 +70,6 @@ export const BREAKPOINTS = {
   "2xl": 1536,
 } as const;
 
-// Configurações de animação
 export const ANIMATION_CONFIG = {
   initial: { opacity: 0, y: 20 },
   animate: { opacity: 1, y: 0 },
